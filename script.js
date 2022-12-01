@@ -1,6 +1,6 @@
  
 const data = [10,20,30,40]
- 
+ console.log(data)
 const f = data[0]
 const l = data[1]
 const m = data[2]
