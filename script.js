@@ -1,6 +1,7 @@
  
 const data = [10,20,30,40]
  console.log(data)
+  console.log("this obly texting purpose")
 const f = data[0]
 const l = data[1]
 const m = data[2]
@@ -215,3 +216,25 @@ for (let i = 0; i < 3 ; i++) {
     }, 1000 + 1);
     
 }
+ function add (a){
+    return console.log(a,"aaaaaaaaaa")
+    a = 6
+ }(21)
+ add()
+
+// let obj =   {
+   
+//   d:[
+//         {
+//             name:"vikcy",
+//             address:"chennai"
+//         },
+//         {
+//             name:"abi",
+//             address:"trichy"
+//         }
+//     ]
+// }
+// let d = obj.d.find(item=> item.name == "abi").address
+// console.log(d,"address");
+ 
