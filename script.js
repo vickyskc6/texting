@@ -236,5 +236,6 @@ for (let i = 0; i < 3 ; i++) {
 //     ]
 // }
 // let d = obj.d.find(item=> item.name == "abi").address
-// console.log(d,"address");
+// console.log(d,"address")
+    console.log("checking for git ");
  
