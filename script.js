@@ -150,7 +150,6 @@ const currencies = new Map([
 currencies.forEach((value,key,array)=>{
     console.log(`${key}:${value}`);
 })
-
 console.log("-----------SET METHOD------------");
 
 currenciesUnquie = new Set(["usd",'eur',"gbp","usd","eur"])
