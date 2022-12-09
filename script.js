@@ -237,8 +237,9 @@
     //         return false
     //     }
     // }
+ 
 
-
+   //find the duplicate array of object value 
 
     let  findArrData  = [{m1:"7654356",m2:"76543456656",m3:"7654356" ,name:"vickyskc"},
     {m1:"2234566778",m2:"2234566876778",m3:"223456667778" ,name:"abi"},
